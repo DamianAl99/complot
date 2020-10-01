@@ -117,10 +117,13 @@ header nav a, #social-main{
     align-items: center;
 }
 .main .transition-img .main-text h4{
-    width: 80%;
+    width: 300px;
     margin: auto;
     font-size: 2em;
     text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
 }
 
 .main .transition-img .main-text a{
